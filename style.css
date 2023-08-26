@@ -852,36 +852,16 @@ p {
 
 }
 /*SERVICE SECTION*/
-.service-list {
-	padding: 30px;
-	margin-top: 20px;
-	background: #969393;
-	border-radius: 15px;
-	width: 94%;
+.gallery {
+	width: 100%;
 	float: left;
-  text-align: center;
-
+	margin-top: 30px;
 }
-
-.service-list i {
-	font-size: 50px;
-	color: #ffbf35;
-	width: 70px;
-	float: left;
-  text-align: center;
+.gallery img {
+	height: auto;
+	width: 95%;
+	margin-bottom: 20px;
 }
-
-.service-list h3 {
-	font-size: 28px;
-	margin-top: 10px;
-	margin-bottom: 15px;
-  text-align: center;
-}
-.se-container{
-  padding-top: 100px;
-  text-align: center;
-}
-
 
 
 
